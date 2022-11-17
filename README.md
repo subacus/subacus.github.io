@@ -21,7 +21,7 @@
         width: 5px;
     }
 </style>
-   <h1> votação para separar o nordeste do brasil </h1>
+   <h2> votação para separar o nordeste do brasil </h2>
     <br>
     <h2> após as eleições percebemos que os nordestinos nem são gente, então decidi fazer esse site</h2>
     <h3> vote aqui embaixo para decidir o futuro do nordeste</h3>
