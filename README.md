@@ -1,19 +1,4 @@
 
-<style>
-    h1{
-        color: blueviolet;
-        width: 15px;
-        height: 15px;
-    }
-    h4{
-        color: brown;
-        height: 10px;
-        width: 10px;
-    }
-    p{
-
-    }
-</style>
    <h1> votação para separar o nordeste do brasil </h1>
     <br>
     <h2> após as eleições percebemos que os nordestinos nem são gente, então decidi fazer esse site</h2>
