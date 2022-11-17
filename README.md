@@ -1,9 +1,4 @@
-<script>
-    alert("esse site contém muita ironia, se vc levar a serio vsfdkkkkkkkkk")
-    function voto(){
-        alert("seu voto foi contabilizado")
-    }
-</script>
+
 <style>
     h1{
         color: blueviolet;
